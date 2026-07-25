@@ -1,9 +1,13 @@
 {
-    "name":  "@azphalt/typewriter-cursor",
-    "version":  "1.2.0",
-    "description":  "",
-    "private":  false,
-    "scripts":  {
-                    "build":  "node build.js"
-                }
+  "name": "@azphalt/typewriter-cursor",
+  "version": "1.2.0",
+  "description": "",
+  "private": false,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@azphalt/azp": "^0.1.0"
+  }
 }
