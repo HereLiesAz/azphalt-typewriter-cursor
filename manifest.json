@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Types character by character, each letter flashing dark for a frame as it lands — the cursor blink built into the type-on.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
